@@ -48,7 +48,7 @@ Week 10: (MILESTONE):  Final Presentation: (GOAL): Finalize the application, upd
 See docs/AI_usage_log.md
 ## Current Status
 - [x] Repository created
-- [ ] Proposal submitted
+- [x] Proposal submitted
 - [ ] First working demo
 - [ ] System works on our data
 - [ ] Metrics measured
