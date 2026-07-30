@@ -17,7 +17,7 @@
 - Why this approach:[Python's simple use is perfect for the flexibility we plan on working with this project.]
 ## Dataset
 - Source:[Kaggle]
-- Size:[762 images, 0 videos]
+- Size:~[762 images, 0 videos]~ -> File contained 1,504 images (both .jpg and .JPG). 
 - Labels:[4 species of African Wild Animals]
 - Link:[https://www.kaggle.com/datasets/biancaferreira/african-wildlife]
 ## Success Metrics (what we will measure and expect)
