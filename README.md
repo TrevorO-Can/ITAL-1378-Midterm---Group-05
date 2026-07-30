@@ -17,7 +17,8 @@
 - Why this approach:[Python's simple use is perfect for the flexibility we plan on working with this project.]
 ## Dataset
 - Source:[Kaggle]
-- Size:~[762 images, 0 videos]~ -> File contained 1,504 images (both .jpg and .JPG). 
+- Size:~[762 images, 0 videos]~ -> SEE BELOW
+- File contained 1,504 images (both .jpg and .JPG) and 1,504 .txt files. .txt files were removed from the dataset (Found in Cell-4) due to changing from YOLO to ResNet.
 - Labels:[4 species of African Wild Animals]
 - Link:[https://www.kaggle.com/datasets/biancaferreira/african-wildlife]
 ## Success Metrics (what we will measure and expect)
