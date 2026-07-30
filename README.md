@@ -9,7 +9,7 @@
 ## Problem Statement[Many people struggle to accurately identify wildlife species due to limited knowledge and the similarities between certain animals.An AI-powered animal identification system can provide quick and accurate species identification while helping users learn more about wildlife.]
 ## Solution Overview[To address this problem, our application will use a computer vision model to identify wildlife species from uploaded images. The model will analyze each image, predict the animal species, and display the species name, confidence score, and educational information to help users identify and learn about wildlife.]
 ## Technical Approach
-- CV Technique:[Detection/Classification]
+- CV Technique:~[Detection/Classification]~ -> [Detection]
 - Model Architecture:[CNN]
 - Model: ~[YOLO]~ -> [ResNet] (CHANGED)
 - How we will use it:[Pretrained as is / Transfer learning / API, free tier or open source]
