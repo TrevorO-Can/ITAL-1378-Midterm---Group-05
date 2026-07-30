@@ -5,13 +5,13 @@
 [Fiyinfoluwa Agbenohevi] -
 [] (if applicable)
 ## Project Tier
-Tier 1* (CHANGED) [This project fits our tier because the simplicity of the basic components, and that we are not asking the algorithm to do complex reasoning of any sorts, just simple detection and classification].
+~Tier 2~ -> Tier 1 (CHANGED) [This project fits our tier because the simplicity of the basic components, and that we are not asking the algorithm to do complex reasoning of any sorts, just simple detection and classification].
 ## Problem Statement[Many people struggle to accurately identify wildlife species due to limited knowledge and the similarities between certain animals.An AI-powered animal identification system can provide quick and accurate species identification while helping users learn more about wildlife.]
 ## Solution Overview[To address this problem, our application will use a computer vision model to identify wildlife species from uploaded images. The model will analyze each image, predict the animal species, and display the species name, confidence score, and educational information to help users identify and learn about wildlife.]
 ## Technical Approach
 - CV Technique:[Detection/Classification]
 - Model Architecture:[CNN]
-- Model: ~[YOLO]~ -> [ResNet]
+- Model: ~[YOLO]~ -> [ResNet] (CHANGED)
 - How we will use it:[Pretrained as is / Transfer learning / API, free tier or open source]
 - Framework: [PyTorch]
 - Why this approach:[Python's simple use is perfect for the flexibility we plan on working with this project.]
@@ -26,7 +26,9 @@ Tier 1* (CHANGED) [This project fits our tier because the simplicity of the basi
 ## Milestone Plan
 [Week 5: (MILESTONE) Blueprint: (GOAL): Complete the proposal slides, create the GitHub repository, and submit the project plan.
 
-Week 6: (MILESTONE): First Working Demo: (GOAL): Test a pretrained MobileNetV2 model with sample wildlife images to make sure the application works.
+RESULT: Blueprint was submitted. Feedback was given, and changes that were suggested have been applied  
+
+Week 6: (MILESTONE): First Working Demo: (GOAL): Test a pretrained ~MobileNetV2~ ResNet model with sample wildlife images to make sure the application works.
 
 Weeks 7–8: (MILESTONE): Build the Application: (GOAL): Train the model using our wildlife dataset and develop the wildlife identification application.
 
