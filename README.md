@@ -46,13 +46,13 @@ Week 10: (MILESTONE):  Final Presentation: (GOAL): Finalize the application, upd
 [Backup plan: Force Reset the model] ||
 [Risk 2: Correctly Classifies and Identifies, but fails to deliver any meaningful information] | High |
 [Backup plan: Go back and adjust model, train it on more information, with the hope the AI doesn't form a bias.] |
-## Demo Video[Link goes here at the Final]
+## Demo Video[https://drive.google.com/file/d/1zYtrkFz_OrbnC87fZ5NnqLzt2btsruZN/view?usp=sharing]
 ## AI Usage Log
 See docs/AI_usage_log.md
 ## Current Status
 - [x] Repository created
 - [X] Proposal submitted
-- [ ] First working demo
-- [ ] System works on our data
-- [ ] Metrics measured
-- [ ] Final submitted
+- [X] First working demo
+- [X] System works on our data
+- [X] Metrics measured
+- [X] Final submitted
