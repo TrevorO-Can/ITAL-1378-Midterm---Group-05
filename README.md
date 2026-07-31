@@ -49,10 +49,21 @@ Week 10: (MILESTONE):  Final Presentation: (GOAL): Finalize the application, upd
 ## Demo Video[https://drive.google.com/file/d/1zYtrkFz_OrbnC87fZ5NnqLzt2btsruZN/view?usp=sharing]
 ## AI Usage Log
 See docs/AI_usage_log.md
-## Current Status
+## Midterm Status
 - [x] Repository created
 - [X] Proposal submitted
 - [X] First working demo
 - [X] System works on our data
 - [X] Metrics measured
 - [X] Final submitted
+- [ ] 
+Final Status 
+- [X] Complete md (updated from your Blueprint to describe what you actually built)
+- [X] All code in notebooks/ or src/
+- [X] txt
+- [X] docs/AI_usage_log.md with 5 to 10 entries minimum (tool used, what for, what you kept or changed)
+- [X] docs/presentation.pdf
+- [X] results/ folder with outputs (sample predictions, screenshots, metric tables)
+- [X] Demo video link in the README
+
+ 
